@@ -34,7 +34,7 @@ body, html {
     left: 2rem;      /* 왼쪽에서 20px 떨어진 위치 */
     right: 2rem;     /* 오른쪽에서 20px 떨어진 위치 */
     padding: 1rem 0; /* 상하 패딩을 15px로 증가시켜 더 두껍게 함 */
-    background-color: #C8E8ED; /* 배경 색상은 오렌지색 */
+    background-color: #83CD19; /* 배경 색상은 오렌지색 */
     color: white;    /* 글자 색상 */
     text-align: center; /* 글자 가운데 정렬 */
     font-size: 20px;
